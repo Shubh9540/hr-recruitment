@@ -38,8 +38,8 @@ export default function RootLayout({
   const commonData = templateData.common;
 
   return (
-    <html lang="en" className="w-full max-w-[100vw] overflow-x-hidden">
-      <body className={`${poppins.variable} w-full min-w-0 max-w-[100vw] overflow-x-hidden break-words font-sans antialiased [overscroll-behavior-x:none]`}>
+    <html lang="en" className="w-full max-w-[100vw]">
+      <body className={`${poppins.variable} w-full min-w-0 max-w-[100vw] break-words font-sans antialiased`}>
         <TopBar data={sectionData.topBar?.variants?.RecruitmentTopBar1} />
         <Header data={sectionData.Header?.variants?.RecruitmentHeader1} />
         {children}

@@ -70,15 +70,11 @@ export interface FooterData {
   logo: string;
   logoAlt: string;
   logoUrl: string;
-  brandTitle: string;
   copyrightText: string;
   description: string;
-  backgroundImage: string;
-  backgroundImageAlt: string;
   quickLinksTitle: string;
   servicesTitle: string;
   contactTitle: string;
-  followUsTitle: string;
   socialLinks: FooterSocialItem[];
   quickLinks: FooterLinkItem[];
   servicesLinks: FooterLinkItem[];
@@ -163,8 +159,6 @@ export interface ServiceItem {
   icon: string;
   title: string;
   description: string;
-  image?: string;
-  imageAlt?: string;
   url: string;
 }
 
@@ -172,8 +166,6 @@ export interface ServicesData {
   subtitle: string;
   title1: string;
   highlightedTitle?: string;
-  title2?: string;
-  title3?: string;
   description: string;
   linkText: string;
   buttonText: string;
@@ -438,12 +430,6 @@ export interface ImpactStatItem {
 }
 
 export interface ImpactData {
-  subtitle: string;
-  title1: string;
-  title2: string;
-  description: string;
-  backgroundImage: string;
-  backgroundImageAlt: string;
   stats: ImpactStatItem[];
 }
 
@@ -473,10 +459,7 @@ export interface TestimonialsData {
   subtitle: string;
   title1: string;
   highlightedTitle: string;
-  title2?: string;
   description: string;
-  videoImage?: string;
-  videoImageAlt?: string;
   slideLabel: string;
   previousLabel: string;
   nextLabel: string;
@@ -500,7 +483,6 @@ export interface BlogItem {
   id: string;
   title: string;
   description: string;
-  category: string;
   image: string;
   imageAlt: string;
   date: string;

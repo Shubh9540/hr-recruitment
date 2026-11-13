@@ -21,7 +21,7 @@ export const Header = ({ data }: HeaderProps) => {
   };
 
   return (
-    <header className="sticky top-0 z-50 w-full max-w-full border-b border-[#ece7fb] bg-white shadow-sm">
+    <header className="sticky top-0 z-50 w-full border-b border-[#ece7fb] bg-white/95 backdrop-blur-md shadow-sm transition-all">
       <div className="mx-auto flex h-16 w-full min-w-0 max-w-7xl items-center justify-between px-4 sm:h-20 sm:px-6 lg:px-8">
         {/* Logo */}
         <Link href="/" className="flex min-w-0 flex-1 items-center lg:flex-none">

@@ -4,15 +4,11 @@
       "logo": "/main logo/logo.webp",
       "logoAlt": "TalentFlow Logo",
       "logoUrl": "/",
-      "brandTitle": "Recruitment",
       "copyrightText": "© 2026 TalentFlow. All rights reserved. Powered by Lestow",
       "description": "Your trusted partner in recruitment and HR advisory, building better teams for a brighter tomorrow.",
-      "backgroundImage": "/other/footer-bg.webp",
-      "backgroundImageAlt": "HR consultancy analyst monitoring global digital threats from a command center",
       "quickLinksTitle": "Quick Links",
       "servicesTitle": "Our Services",
       "contactTitle": "Contact Info",
-      "followUsTitle": "Follow Us",
       "socialLinks": [
         {
           "id": "social-linkedin",
@@ -466,8 +462,6 @@
             "RecruitmentServices1": {
               "subtitle": "OUR SERVICES",
               "title1": "HR Consulting Services",
-              "title2": "",
-              "title3": "",
               "description": "We provide end-to-end HR solutions to help businesses attract, develop and retain the right talent for long-term success.",
               "linkText": "Read More",
               "buttonText": "View All Services",
@@ -478,8 +472,6 @@
                   "id": "service-talent-acquisition",
                   "title": "Talent Acquisition",
                   "description": "We help you find and hire the right talent through strategic hiring solutions and a streamlined recruitment process.",
-                  "image": "/other/service-talent-acquisition.webp",
-                  "imageAlt": "HR professionals collaborating on talent acquisition",
                   "icon": "FaUsers",
                   "url": "/services/service-details"
                 },
@@ -487,8 +479,6 @@
                   "id": "service-hr-strategy-planning",
                   "title": "HR Strategy & Planning",
                   "description": "We develop tailored HR strategies to align your workforce with business goals and drive sustainable growth.",
-                  "image": "/other/service-hr-strategy.webp",
-                  "imageAlt": "HR consultant presenting workforce strategy and planning",
                   "icon": "FaChartBar",
                   "url": "/services/service-details"
                 },
@@ -496,8 +486,6 @@
                   "id": "service-workforce-management",
                   "title": "Workforce Management",
                   "description": "Improve productivity and efficiency with effective workforce planning and management solutions.",
-                  "image": "/other/service-performance.webp",
-                  "imageAlt": "Business team reviewing workforce performance",
                   "icon": "FaCog",
                   "url": "/services/service-details"
                 },
@@ -505,8 +493,6 @@
                   "id": "service-training-development",
                   "title": "Training & Development",
                   "description": "Build high-performing teams with customized training programs and skill development initiatives.",
-                  "image": "/other/service-training.webp",
-                  "imageAlt": "Professional leading an employee training session",
                   "icon": "FaChalkboardTeacher",
                   "url": "/services/service-details"
                 },
@@ -514,8 +500,6 @@
                   "id": "service-hr-compliance",
                   "title": "HR Compliance",
                   "description": "Ensure compliance with labor laws and regulations with our expert HR advisory and policy support.",
-                  "image": "/other/service-compliance.webp",
-                  "imageAlt": "HR compliance specialist reviewing workplace policies",
                   "icon": "FaUserShield",
                   "url": "/services/service-details"
                 },
@@ -523,8 +507,6 @@
                   "id": "service-employee-engagement",
                   "title": "Employee Engagement",
                   "description": "Create a positive work culture and improve employee satisfaction for long-term retention.",
-                  "image": "/other/service-engagement.webp",
-                  "imageAlt": "Engaged employees collaborating in a modern workplace",
                   "icon": "FaHandshake",
                   "url": "/services/service-details"
                 },
@@ -1095,12 +1077,6 @@
         "Impact": {
           "variants": {
             "RecruitmentImpact1": {
-              "subtitle": "OUR IMPACT",
-              "title1": "Numbers That Reflect",
-              "title2": "Our Strength",
-              "description": "Trusted by businesses worldwide, our HR consultancy solutions continue to deliver measurable results and stronger, safer digital environments.",
-              "backgroundImage": "/other/impact-bg.webp",
-              "backgroundImageAlt": "HR consultancy analyst monitoring a global threat intelligence command center",
               "stats": [
                 {
                   "id": "stat-1",
@@ -1135,10 +1111,7 @@
             "RecruitmentTestimonials1": {
               "subtitle": "Testimonials",
               "title1": "Don’t Listen To Us, Listen To",
-              "title2": "",
               "description": "Here’s what our clients have to say about their experience working with us and the value we’ve brought to their business.",
-              "videoImage": "/other/about-main.webp",
-              "videoImageAlt": "HR consultancy operations center protecting a global business network",
               "previousLabel": "Previous testimonials",
               "nextLabel": "Next testimonials",
               "slideLabel": "Show testimonial",
@@ -1194,7 +1167,6 @@
                   "image": "/other/blog-hiring-strategy.webp",
                   "imageAlt": "Business professional preparing hiring notes beside workforce charts",
                   "date": "15 Mar, 2026",
-                  "category": "Talent Strategy",
                   "title": "Build a Stronger Workforce with Strategic Talent Planning",
                   "description": "Explore practical ways to identify hiring needs, attract qualified candidates and create a dependable talent pipeline for sustainable growth.",
                   "url": "/blog/blog-details"
@@ -1204,7 +1176,6 @@
                   "image": "/other/blog-customized-solutions.webp",
                   "imageAlt": "HR consultant and business leader discussing a customized talent strategy",
                   "date": "12 Mar, 2026",
-                  "category": "HR Solutions",
                   "title": "Customized HR Solutions Built Around Your Business",
                   "description": "Learn how tailored recruitment, workforce planning and people strategies can address your unique goals and operational challenges.",
                   "url": "/blog/blog-details"
@@ -1214,7 +1185,6 @@
                   "image": "/other/blog-workforce-insights.webp",
                   "imageAlt": "Professional reviewing workforce analytics and performance charts",
                   "date": "08 Mar, 2026",
-                  "category": "Workforce Insights",
                   "title": "Turn Workforce Insights into Better Business Decisions",
                   "description": "Discover how clear people data and ongoing HR guidance can improve performance, retention and long-term organizational success.",
                   "url": "/blog/blog-details"
@@ -1224,7 +1194,6 @@
                   "image": "/other/blog-customized-solutions.webp",
                   "imageAlt": "HR professionals discussing emerging workplace trends",
                   "date": "05 Mar, 2026",
-                  "category": "HR Trends",
                   "title": "Top HR Trends Every Growing Business Should Watch",
                   "description": "Understand the workplace trends shaping recruitment, employee experience and business performance in the year ahead.",
                   "url": "/blog/blog-details"
@@ -1234,7 +1203,6 @@
                   "image": "/other/blog-hiring-strategy.webp",
                   "imageAlt": "Colleagues collaborating on a positive workplace culture plan",
                   "date": "02 Mar, 2026",
-                  "category": "Workplace Culture",
                   "title": "Building a Positive Workplace Culture That Lasts",
                   "description": "Create an environment where employees feel supported, connected and motivated to contribute their best work.",
                   "url": "/blog/blog-details"
@@ -1244,7 +1212,6 @@
                   "image": "/other/blog-workforce-insights.webp",
                   "imageAlt": "Talent acquisition planning supported by workforce analytics",
                   "date": "27 Feb, 2026",
-                  "category": "Talent Acquisition",
                   "title": "Effective Talent Acquisition Strategies for Modern Teams",
                   "description": "Improve recruitment outcomes with clear hiring priorities, stronger candidate experiences and reliable selection processes.",
                   "url": "/blog/blog-details"
@@ -1254,7 +1221,6 @@
                   "image": "/other/blog-customized-solutions.webp",
                   "imageAlt": "Consultants planning employee training and development",
                   "date": "24 Feb, 2026",
-                  "category": "Learning & Development",
                   "title": "The Importance of Employee Training and Development",
                   "description": "Learn how focused development programs strengthen skills, improve confidence and prepare employees for future responsibilities.",
                   "url": "/blog/blog-details"
@@ -1264,7 +1230,6 @@
                   "image": "/other/blog-workforce-insights.webp",
                   "imageAlt": "HR compliance documents and workplace policy review",
                   "date": "21 Feb, 2026",
-                  "category": "HR Compliance",
                   "title": "Navigating HR Compliance in a Changing Workplace",
                   "description": "Stay prepared with practical guidance for maintaining clear policies, dependable records and compliant HR processes.",
                   "url": "/blog/blog-details"
@@ -1274,7 +1239,6 @@
                   "image": "/other/blog-hiring-strategy.webp",
                   "imageAlt": "Business leaders reviewing a workforce management plan",
                   "date": "18 Feb, 2026",
-                  "category": "Workforce Management",
                   "title": "How Workforce Management Drives Business Growth",
                   "description": "Align staffing, performance and employee development with operational priorities to support sustainable growth.",
                   "url": "/blog/blog-details"
@@ -1284,7 +1248,6 @@
                   "image": "/other/blog-customized-solutions.webp",
                   "imageAlt": "Consultants discussing leadership development priorities",
                   "date": "15 Feb, 2026",
-                  "category": "Leadership",
                   "title": "Developing Confident Leaders Across Your Organization",
                   "description": "Give current and emerging leaders the practical tools they need to communicate, decide and guide teams effectively.",
                   "url": "/blog/blog-details"
@@ -1294,7 +1257,6 @@
                   "image": "/other/blog-hiring-strategy.webp",
                   "imageAlt": "HR leader preparing an employee retention strategy",
                   "date": "12 Feb, 2026",
-                  "category": "Employee Retention",
                   "title": "Practical Ways to Improve Employee Retention",
                   "description": "Build stronger employee relationships through meaningful development, regular feedback and a consistent workplace experience.",
                   "url": "/blog/blog-details"
@@ -1304,7 +1266,6 @@
                   "image": "/other/blog-workforce-insights.webp",
                   "imageAlt": "Performance data being reviewed for employee development",
                   "date": "09 Feb, 2026",
-                  "category": "Performance",
                   "title": "Making Performance Management More Meaningful",
                   "description": "Move beyond annual reviews with clear goals, useful conversations and development plans that support measurable progress.",
                   "url": "/blog/blog-details"
