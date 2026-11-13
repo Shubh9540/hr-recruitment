@@ -1,0 +1,1704 @@
+{
+  "common": {
+    "Footer": {
+      "logo": "/main logo/logo.webp",
+      "logoAlt": "TalentFlow Logo",
+      "logoUrl": "/",
+      "brandTitle": "Recruitment",
+      "copyrightText": "© 2026 TalentFlow. All rights reserved. Powered by Lestow",
+      "description": "Your trusted partner in recruitment and HR advisory, building better teams for a brighter tomorrow.",
+      "backgroundImage": "/other/footer-bg.webp",
+      "backgroundImageAlt": "HR consultancy analyst monitoring global digital threats from a command center",
+      "quickLinksTitle": "Quick Links",
+      "servicesTitle": "Our Services",
+      "contactTitle": "Contact Info",
+      "followUsTitle": "Follow Us",
+      "socialLinks": [
+        {
+          "id": "social-linkedin",
+          "icon": "FaLinkedinIn",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com"
+        },
+        {
+          "id": "social-x",
+          "icon": "FaXTwitter",
+          "label": "X",
+          "url": "https://x.com"
+        },
+        {
+          "id": "social-facebook",
+          "icon": "FaFacebookF",
+          "label": "Facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "social-instagram",
+          "icon": "FaInstagram",
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "quick-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "quick-about",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "quick-services",
+          "label": "Services",
+          "url": "/services"
+        },
+        {
+          "id": "quick-team",
+          "label": "Team",
+          "url": "/team"
+        },
+        {
+          "id": "quick-blog",
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "id": "quick-contact",
+          "label": "Contact Us",
+          "url": "/contact"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "footer-talent-acquisition",
+          "label": "Talent Acquisition",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-hr-strategy",
+          "label": "HR Strategy & Planning",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-workforce-management",
+          "label": "Workforce Management",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-training-development",
+          "label": "Training & Development",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-hr-compliance",
+          "label": "HR Compliance",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-employee-engagement",
+          "label": "Employee Engagement",
+          "url": "/services/service-details"
+        }
+      ],
+      "contactInfo": {
+        "email": "info@xyz.com",
+        "phone": "+1 000000000",
+        "address": "123 Main St, NY, USA"
+      }
+    }
+  },
+  "categories": {
+    "Recruitment": {
+      "sections": {
+        "Breadcrumb": {
+          "variants": {
+            "RecruitmentAboutBreadcrumb1": {
+              "title": "About Us",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "breadcrumb-about",
+                  "label": "About Us"
+                }
+              ]
+            },
+            "RecruitmentServicesBreadcrumb1": {
+              "title": "Our Services",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "services-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "services-breadcrumb-current",
+                  "label": "Our Services"
+                }
+              ]
+            },
+            "RecruitmentServiceDetailBreadcrumb1": {
+              "title": "Service Detail",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "service-detail-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "service-detail-breadcrumb-services",
+                  "label": "Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "service-detail-breadcrumb-current",
+                  "label": "Service Detail"
+                }
+              ]
+            },
+            "RecruitmentJobsBreadcrumb1": {
+              "title": "Jobs",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "jobs-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "jobs-breadcrumb-current",
+                  "label": "Jobs"
+                }
+              ]
+            },
+            "RecruitmentTeamBreadcrumb1": {
+              "title": "Team",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "team-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "team-breadcrumb-current",
+                  "label": "Team"
+                }
+              ]
+            },
+            "RecruitmentTeamDetailBreadcrumb1": {
+              "title": "Team Detail",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "team-detail-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "team-detail-breadcrumb-team",
+                  "label": "Team",
+                  "url": "/team"
+                },
+                {
+                  "id": "team-detail-breadcrumb-current",
+                  "label": "Team Detail"
+                }
+              ]
+            },
+            "RecruitmentBlogBreadcrumb1": {
+              "title": "Blog",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "blog-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "blog-breadcrumb-current",
+                  "label": "Blog"
+                }
+              ]
+            },
+            "RecruitmentBlogDetailBreadcrumb1": {
+              "title": "Blog Detail",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "blog-detail-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "blog-detail-breadcrumb-blog",
+                  "label": "Blog",
+                  "url": "/blog"
+                },
+                {
+                  "id": "blog-detail-breadcrumb-current",
+                  "label": "Blog Detail"
+                }
+              ]
+            },
+            "RecruitmentContactBreadcrumb1": {
+              "title": "Contact Us",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "contact-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "contact-breadcrumb-current",
+                  "label": "Contact Us"
+                }
+              ]
+            },
+            "RecruitmentQuoteBreadcrumb1": {
+              "title": "Get A Quote",
+              "ariaLabel": "Breadcrumb navigation",
+              "backgroundImage": "/other/breadcrumb-bg.webp",
+              "backgroundImageAlt": "Abstract violet topographic pattern",
+              "paths": [
+                {
+                  "id": "quote-breadcrumb-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "quote-breadcrumb-current",
+                  "label": "Get A Quote"
+                }
+              ]
+            }
+          }
+        },
+        "topBar": {
+          "variants": {
+            "RecruitmentTopBar1": {
+              "phone": "+1 000000000",
+              "phoneLabel": "+1 000000000",
+              "email": "info@xyz.com",
+              "emailLabel": "info@xyz.com",
+              "address": "123 Main St, NY, USA",
+              "followUsText": "Follow Us",
+              "socialLinks": [
+                {
+                  "id": "top-facebook",
+                  "icon": "FaFacebookF",
+                  "url": "https://facebook.com",
+                  "label": "Facebook"
+                },
+                {
+                  "id": "top-linkedin",
+                  "icon": "FaLinkedinIn",
+                  "url": "https://linkedin.com",
+                  "label": "LinkedIn"
+                },
+                {
+                  "id": "top-instagram",
+                  "icon": "FaInstagram",
+                  "url": "https://instagram.com",
+                  "label": "Instagram"
+                },
+                {
+                  "id": "top-youtube",
+                  "icon": "FaYoutube",
+                  "url": "https://youtube.com",
+                  "label": "YouTube"
+                }
+              ]
+            }
+          }
+        },
+        "Header": {
+          "variants": {
+            "RecruitmentHeader1": {
+              "logo": "/main logo/logo.webp",
+              "logoAlt": "TalentHire HR Consultancy",
+              "navLinks": [
+                {
+                  "id": "nav-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "nav-about",
+                  "label": "About Us",
+                  "url": "/about"
+                },
+                {
+                  "id": "nav-services",
+                  "label": "Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "nav-jobs",
+                  "label": "Jobs",
+                  "url": "/jobs"
+                },
+                {
+                  "id": "nav-team",
+                  "label": "Team",
+                  "url": "/team"
+                },
+                {
+                  "id": "nav-blog",
+                  "label": "Blog",
+                  "url": "/blog"
+                },
+                {
+                  "id": "nav-contact",
+                  "label": "Contact Us",
+                  "url": "/contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Get a Quote",
+                "url": "/get-a-quote"
+              },
+              "openMenuLabel": "Open navigation menu",
+              "closeMenuLabel": "Close navigation menu"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "RecruitmentHero1": {
+              "eyebrow": "YOUR PEOPLE PARTNER",
+              "titleStart": "Trusted",
+              "highlightedTitle": "HR Consultancy",
+              "titleEnd": "",
+              "description": "Helping businesses hire, develop and retain the right talent.",
+              "backgroundImage": "/other/hero-consultancy-hd.webp",
+              "backgroundImageAlt": "HR consultancy team working together in a modern office",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/get-a-quote"
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "RecruitmentAboutUs1": {
+              "subtitle": "ABOUT US",
+              "title1": "Your Trusted",
+              "highlightedTitle": "HR Consultancy",
+              "title2": "Partner",
+              "descriptions": [
+                "We are a dedicated HR consultancy firm helping businesses find, attract and retain the right talent. Our team of experienced HR professionals understands your business needs and provides tailored hiring, staffing and workforce solutions to support your growth.",
+                "With a people-first approach and deep industry knowledge, we work closely with organizations to build strong teams, improve HR processes and drive long-term success."
+              ],
+              "imageMain": "/other/about-consultancy-hd.webp",
+              "imageMainAlt": "Two HR consultants collaborating at a laptop in a modern office",
+              "button": {
+                "text": "About Us",
+                "url": "/about"
+              },
+              "features": [
+                {
+                  "id": "feature-experienced-professionals",
+                  "icon": "FaUsers",
+                  "title": "Experienced HR Professionals",
+                  "description": "A team with expertise across multiple industries."
+                },
+                {
+                  "id": "feature-customized-solutions",
+                  "icon": "FaCog",
+                  "title": "Customized Solutions",
+                  "description": "Tailored HR strategies to meet your specific needs."
+                },
+                {
+                  "id": "feature-long-term-partnership",
+                  "icon": "FaHandshake",
+                  "title": "Long-Term Partnership",
+                  "description": "Committed to helping your business grow with the right people."
+                }
+              ]
+            },
+            "RecruitmentAboutUsPage1": {
+              "subtitle": "ABOUT US",
+              "title1": "Your Trusted",
+              "highlightedTitle": "HR Consultancy",
+              "title2": "Partner",
+              "descriptions": [
+                "We are a dedicated HR consultancy firm helping businesses find, attract and retain the right talent. Our team of experienced HR professionals understands your business needs and provides tailored hiring, staffing and workforce solutions to support your growth.",
+                "With a people-first approach and deep industry knowledge, we work closely with organizations to build strong teams, improve HR processes and drive long-term success.",
+                "Our consultants combine practical experience with current workforce insights to create people strategies that are clear, measurable and aligned with your organization.",
+                "From growing startups to established businesses, we provide dependable guidance at every stage so leaders can make confident decisions and employees can do their best work."
+              ],
+              "imageMain": "/other/about-consultancy-hd.webp",
+              "imageMainAlt": "Two HR consultants collaborating at a laptop in a modern office",
+              "features": []
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "RecruitmentServices1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "HR Consulting Services",
+              "title2": "",
+              "title3": "",
+              "description": "We provide end-to-end HR solutions to help businesses attract, develop and retain the right talent for long-term success.",
+              "linkText": "Read More",
+              "buttonText": "View All Services",
+              "buttonUrl": "/services",
+              "homepageLimit": 6,
+              "services": [
+                {
+                  "id": "service-talent-acquisition",
+                  "title": "Talent Acquisition",
+                  "description": "We help you find and hire the right talent through strategic hiring solutions and a streamlined recruitment process.",
+                  "image": "/other/service-talent-acquisition.webp",
+                  "imageAlt": "HR professionals collaborating on talent acquisition",
+                  "icon": "FaUsers",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-hr-strategy-planning",
+                  "title": "HR Strategy & Planning",
+                  "description": "We develop tailored HR strategies to align your workforce with business goals and drive sustainable growth.",
+                  "image": "/other/service-hr-strategy.webp",
+                  "imageAlt": "HR consultant presenting workforce strategy and planning",
+                  "icon": "FaChartBar",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-workforce-management",
+                  "title": "Workforce Management",
+                  "description": "Improve productivity and efficiency with effective workforce planning and management solutions.",
+                  "image": "/other/service-performance.webp",
+                  "imageAlt": "Business team reviewing workforce performance",
+                  "icon": "FaCog",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-training-development",
+                  "title": "Training & Development",
+                  "description": "Build high-performing teams with customized training programs and skill development initiatives.",
+                  "image": "/other/service-training.webp",
+                  "imageAlt": "Professional leading an employee training session",
+                  "icon": "FaChalkboardTeacher",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-hr-compliance",
+                  "title": "HR Compliance",
+                  "description": "Ensure compliance with labor laws and regulations with our expert HR advisory and policy support.",
+                  "image": "/other/service-compliance.webp",
+                  "imageAlt": "HR compliance specialist reviewing workplace policies",
+                  "icon": "FaUserShield",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-employee-engagement",
+                  "title": "Employee Engagement",
+                  "description": "Create a positive work culture and improve employee satisfaction for long-term retention.",
+                  "image": "/other/service-engagement.webp",
+                  "imageAlt": "Engaged employees collaborating in a modern workplace",
+                  "icon": "FaHandshake",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-hr-audit-assessment",
+                  "title": "HR Audit & Assessment",
+                  "description": "Identify gaps and opportunities with our detailed HR audit and organizational assessment services.",
+                  "icon": "FaClipboardCheck",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-performance-management",
+                  "title": "Performance Management",
+                  "description": "Design and implement performance management systems to drive employee growth and business success.",
+                  "icon": "FaChartLine",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-payroll-management",
+                  "title": "Payroll Management",
+                  "description": "Streamline payroll processing with accurate, timely and compliant payroll solutions.",
+                  "icon": "FaWallet",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-leadership-development",
+                  "title": "Leadership Development",
+                  "description": "Empower your leaders with personalized development programs to build strong and effective leadership teams.",
+                  "icon": "FaUsersCog",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-organizational-development",
+                  "title": "Organizational Development",
+                  "description": "Build agile and scalable organizations with effective structure, culture and process development.",
+                  "icon": "FaSitemap",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-hr-advisory",
+                  "title": "HR Advisory Services",
+                  "description": "Get expert guidance on HR policies, strategies and best practices tailored to your business needs.",
+                  "icon": "FaLightbulb",
+                  "url": "/services/service-details"
+                }
+              ],
+              "highlightedTitle": "We Offer"
+            }
+          }
+        },
+        "ServiceDetail": {
+          "variants": {
+            "RecruitmentServiceDetail1": {
+              "sidebarTitle": "Our Services",
+              "activeServiceId": "service-hr-strategy-planning",
+              "helpTitle": "Need Any Help?",
+              "helpDescription": "Get in touch with our experts for the right HR solutions.",
+              "helpImage": "/other/service-detail-advisor.webp",
+              "helpImageAlt": "HR advisor ready to support business leaders",
+              "contactItems": [
+                {
+                  "id": "service-help-phone",
+                  "icon": "FaPhoneAlt",
+                  "label": "Phone",
+                  "value": "+1 000000000",
+                  "url": "tel:+100000000"
+                },
+                {
+                  "id": "service-help-email",
+                  "icon": "FaEnvelope",
+                  "label": "Email",
+                  "value": "info@xyz.com",
+                  "url": "mailto:info@xyz.com"
+                },
+                {
+                  "id": "service-help-address",
+                  "icon": "FaMapMarkerAlt",
+                  "label": "Address",
+                  "value": "123 Main St, NY, USA",
+                  "url": "https://maps.google.com/?q=123+Main+St,+NY,+USA"
+                }
+              ],
+              "eyebrow": "OUR SERVICES",
+              "titleStart": "HR Strategy",
+              "highlightedTitle": "and Planning",
+              "descriptions": [
+                "We develop customized HR strategies and workforce plans that align with your business objectives. Our strategic approach helps organizations build a strong foundation, improve workforce efficiency and achieve long-term growth in a competitive market.",
+                "Our team works closely with leadership to understand business goals, identify talent needs and create actionable HR plans that support sustainable success. From workforce planning to policy development, we ensure your people strategy drives measurable results."
+              ],
+              "mainImage": "/other/service-detail-main.webp",
+              "mainImageAlt": "HR consultants discussing workforce strategy in a modern office",
+              "approach": {
+                "title": "Our Approach",
+                "descriptions": [
+                  "We take a data-driven and people-centric approach to create practical HR strategies. By analyzing your current workforce, future business goals and industry trends, we develop tailored plans that optimize talent, enhance productivity and support organizational growth."
+                ],
+                "image": "/other/service-detail-approach.webp",
+                "imageAlt": "Professional reviewing workforce performance charts"
+              },
+              "keyServicesTitle": "Key Services",
+              "keyServices": [
+                {
+                  "id": "key-strategic-planning",
+                  "icon": "FaUsersCog",
+                  "title": "Strategic HR Planning",
+                  "description": "Align HR strategies with your business goals for long-term growth."
+                },
+                {
+                  "id": "key-workforce-planning",
+                  "icon": "FaChartBar",
+                  "title": "Workforce Planning",
+                  "description": "Forecast talent needs and build future-ready teams."
+                },
+                {
+                  "id": "key-policy-development",
+                  "icon": "FaFileSignature",
+                  "title": "Policy Development",
+                  "description": "Create effective HR policies and frameworks for smooth operations."
+                },
+                {
+                  "id": "key-performance-alignment",
+                  "icon": "FaChartLine",
+                  "title": "Performance Alignment",
+                  "description": "Ensure HR strategies drive better performance and results."
+                }
+              ]
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "RecruitmentWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "We Provide A",
+              "highlightedTitle": "Professional HR",
+              "title2": "Business Solution",
+              "description": "We help businesses build strong teams, streamline HR processes and achieve sustainable growth with our expert guidance.",
+              "imageMain": "/other/why-choose-consultancy-hd.webp",
+              "imageAlt": "Two HR consultants reviewing workforce plans together at a laptop",
+              "features": [
+                {
+                  "id": "why-experienced-team",
+                  "icon": "FaUsers",
+                  "title": "Experienced Team",
+                  "description": "Industry knowledge to deliver the right talent."
+                },
+                {
+                  "id": "why-tailored-solutions",
+                  "icon": "FaCog",
+                  "title": "Tailored Solutions",
+                  "description": "Customized strategies to meet your business needs."
+                },
+                {
+                  "id": "why-proven-results",
+                  "icon": "FaChartBar",
+                  "title": "Proven Results",
+                  "description": "Helping businesses achieve long-term success."
+                },
+                {
+                  "id": "why-ongoing-support",
+                  "icon": "FaShieldAlt",
+                  "title": "Ongoing Support",
+                  "description": "Dedicated support every step of the way."
+                }
+              ]
+            }
+          }
+        },
+        "Jobs": {
+          "variants": {
+            "RecruitmentJobs1": {
+              "subtitle": "LATEST JOB OPENINGS",
+              "title1": "Explore Exciting",
+              "highlightedTitle": "Career Opportunities",
+              "description": "Join a dynamic team and grow your career with leading companies. Find the right opportunity that matches your skills and aspirations.",
+              "buttonText": "View All Jobs",
+              "buttonUrl": "/jobs",
+              "applyText": "Apply Now",
+              "homepageLimit": 4,
+              "jobs": [
+                {
+                  "id": "job-hr-executive",
+                  "icon": "FaUsers",
+                  "title": "HR Executive",
+                  "company": "ABC Pvt. Ltd.",
+                  "location": "New Delhi, India",
+                  "employmentType": "Full Time",
+                  "description": "We are looking for an experienced HR Executive to manage day-to-day HR operations and support our growing team.",
+                  "url": "/jobs?position=job-hr-executive"
+                },
+                {
+                  "id": "job-recruitment-specialist",
+                  "icon": "FaFileAlt",
+                  "title": "Recruitment Specialist",
+                  "company": "Tech Solutions",
+                  "location": "Bengaluru, India",
+                  "employmentType": "Full Time",
+                  "description": "We are seeking a Recruitment Specialist to source, screen and hire top talent across various departments.",
+                  "url": "/jobs?position=job-recruitment-specialist"
+                },
+                {
+                  "id": "job-training-manager",
+                  "icon": "FaChalkboardTeacher",
+                  "title": "Training Manager",
+                  "company": "Global Corp.",
+                  "location": "Mumbai, India",
+                  "employmentType": "Full Time",
+                  "description": "We are hiring a Training Manager to design and deliver effective training programs for our employees.",
+                  "url": "/jobs?position=job-training-manager"
+                },
+                {
+                  "id": "job-payroll-executive",
+                  "icon": "FaMoneyCheckAlt",
+                  "title": "Payroll Executive",
+                  "company": "XYZ Ltd.",
+                  "location": "Pune, India",
+                  "employmentType": "Part Time",
+                  "description": "We are looking for a Payroll Executive to manage payroll processing, maintain records and ensure compliance.",
+                  "url": "/jobs?position=job-payroll-executive"
+                },
+                {
+                  "id": "job-talent-acquisition-lead",
+                  "icon": "FaChartBar",
+                  "title": "Talent Acquisition Lead",
+                  "company": "Innovate HR",
+                  "location": "Gurugram, India",
+                  "employmentType": "Full Time",
+                  "description": "We are seeking a Talent Acquisition Lead to build strong hiring strategies and attract top talent.",
+                  "url": "/jobs?position=job-talent-acquisition-lead"
+                },
+                {
+                  "id": "job-employee-relations-manager",
+                  "icon": "FaHandshake",
+                  "title": "Employee Relations Manager",
+                  "company": "NextGen Solutions",
+                  "location": "Chennai, India",
+                  "employmentType": "Full Time",
+                  "description": "We are hiring an Employee Relations Manager to foster a positive work environment and handle employee concerns.",
+                  "url": "/jobs?position=job-employee-relations-manager"
+                },
+                {
+                  "id": "job-hr-operations-specialist",
+                  "icon": "FaCog",
+                  "title": "HR Operations Specialist",
+                  "company": "FutureTech",
+                  "location": "Hyderabad, India",
+                  "employmentType": "Full Time",
+                  "description": "We are looking for an HR Operations Specialist to manage HR processes, documentation and employee support.",
+                  "url": "/jobs?position=job-hr-operations-specialist"
+                },
+                {
+                  "id": "job-compensation-benefits-analyst",
+                  "icon": "FaUsers",
+                  "title": "Compensation & Benefits Analyst",
+                  "company": "Prime Technologies",
+                  "location": "Noida, India",
+                  "employmentType": "Part Time",
+                  "description": "We are seeking a Compensation & Benefits Analyst to design and manage reward programs and ensure market competitiveness.",
+                  "url": "/jobs?position=job-compensation-benefits-analyst"
+                },
+                {
+                  "id": "job-hr-intern",
+                  "icon": "FaClipboardCheck",
+                  "title": "Intern – Human Resources",
+                  "company": "Talent Hub",
+                  "location": "Indore, India",
+                  "employmentType": "Internship",
+                  "description": "We are looking for an HR Intern to support the HR team with recruitment, documentation and employee engagement activities.",
+                  "url": "/jobs?position=job-hr-intern"
+                }
+              ]
+            }
+          }
+        },
+        "JobPage": {
+          "variants": {
+            "RecruitmentJobPage1": {
+              "form": {
+                "title": "Apply Now",
+                "description": "Take the next step in your career. Fill out the form and our team will get in touch with you.",
+                "firstNameLabel": "First Name",
+                "firstNamePlaceholder": "First Name*",
+                "lastNameLabel": "Last Name",
+                "lastNamePlaceholder": "Last Name*",
+                "emailLabel": "Email Address",
+                "emailPlaceholder": "Email Address*",
+                "phoneLabel": "Phone Number",
+                "phonePlaceholder": "Phone Number*",
+                "positionLabel": "Position",
+                "positionPlaceholder": "Select Position*",
+                "resumeLabel": "Upload Resume*",
+                "chooseFileText": "Choose File",
+                "noFileText": "Upload Resume*",
+                "messageLabel": "Your Message",
+                "messagePlaceholder": "Your Message",
+                "submitText": "Apply Now",
+                "successMessage": "Your application form has been completed successfully."
+              }
+            }
+          }
+        },
+        "Team": {
+          "variants": {
+            "RecruitmentTeam1": {
+              "subtitle": "Our Team",
+              "title1": "Meet Our",
+              "highlightedTitle": "Advisors",
+              "description": "Our experienced advisors are here to guide you with the right strategies and solutions for your business growth.",
+              "buttonText": "View All Team Members",
+              "buttonUrl": "/team",
+              "homepageLimit": 4,
+              "members": [
+                {
+                  "id": "team-priya-sharma",
+                  "name": "Priya Sharma",
+                  "role": "HR Consultant",
+                  "image": "/other/team-priya-sharma.webp",
+                  "imageAlt": "Priya Sharma, HR Consultant",
+                  "detailUrl": "/team/team-priya-sharma",
+                  "socialLinks": [
+                    { "id": "priya-facebook", "icon": "FaFacebookF", "label": "Priya Sharma on Facebook", "url": "https://facebook.com" },
+                    { "id": "priya-instagram", "icon": "FaInstagram", "label": "Priya Sharma on Instagram", "url": "https://instagram.com" },
+                    { "id": "priya-linkedin", "icon": "FaLinkedinIn", "label": "Priya Sharma on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "priya-twitter", "icon": "FaTwitter", "label": "Priya Sharma on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-rahul-mehta",
+                  "name": "Rahul Mehta",
+                  "role": "Talent Acquisition Consultant",
+                  "image": "/other/team-rahul-mehta.webp",
+                  "imageAlt": "Rahul Mehta, Talent Acquisition Consultant",
+                  "detailUrl": "/team/team-rahul-mehta",
+                  "socialLinks": [
+                    { "id": "rahul-facebook", "icon": "FaFacebookF", "label": "Rahul Mehta on Facebook", "url": "https://facebook.com" },
+                    { "id": "rahul-instagram", "icon": "FaInstagram", "label": "Rahul Mehta on Instagram", "url": "https://instagram.com" },
+                    { "id": "rahul-linkedin", "icon": "FaLinkedinIn", "label": "Rahul Mehta on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "rahul-twitter", "icon": "FaTwitter", "label": "Rahul Mehta on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-sneha-verma",
+                  "name": "Sneha Verma",
+                  "role": "Training & Development Consultant",
+                  "image": "/other/team-sneha-verma.webp",
+                  "imageAlt": "Sneha Verma, Training and Development Consultant",
+                  "detailUrl": "/team/team-sneha-verma",
+                  "socialLinks": [
+                    { "id": "sneha-facebook", "icon": "FaFacebookF", "label": "Sneha Verma on Facebook", "url": "https://facebook.com" },
+                    { "id": "sneha-instagram", "icon": "FaInstagram", "label": "Sneha Verma on Instagram", "url": "https://instagram.com" },
+                    { "id": "sneha-linkedin", "icon": "FaLinkedinIn", "label": "Sneha Verma on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "sneha-twitter", "icon": "FaTwitter", "label": "Sneha Verma on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-amit-kapoor",
+                  "name": "Amit Kapoor",
+                  "role": "Business Strategy Consultant",
+                  "image": "/other/team-amit-kapoor.webp",
+                  "imageAlt": "Amit Kapoor, Business Strategy Consultant",
+                  "detailUrl": "/team/team-amit-kapoor",
+                  "socialLinks": [
+                    { "id": "amit-facebook", "icon": "FaFacebookF", "label": "Amit Kapoor on Facebook", "url": "https://facebook.com" },
+                    { "id": "amit-instagram", "icon": "FaInstagram", "label": "Amit Kapoor on Instagram", "url": "https://instagram.com" },
+                    { "id": "amit-linkedin", "icon": "FaLinkedinIn", "label": "Amit Kapoor on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "amit-twitter", "icon": "FaTwitter", "label": "Amit Kapoor on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-neha-gupta",
+                  "name": "Neha Gupta",
+                  "role": "HR Compliance Consultant",
+                  "image": "/other/team-neha-gupta.webp",
+                  "imageAlt": "Neha Gupta, HR Compliance Consultant",
+                  "detailUrl": "/team/team-neha-gupta",
+                  "socialLinks": [
+                    { "id": "neha-facebook", "icon": "FaFacebookF", "label": "Neha Gupta on Facebook", "url": "https://facebook.com" },
+                    { "id": "neha-instagram", "icon": "FaInstagram", "label": "Neha Gupta on Instagram", "url": "https://instagram.com" },
+                    { "id": "neha-linkedin", "icon": "FaLinkedinIn", "label": "Neha Gupta on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "neha-twitter", "icon": "FaTwitter", "label": "Neha Gupta on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-vikram-singh",
+                  "name": "Vikram Singh",
+                  "role": "Workforce Management Consultant",
+                  "image": "/other/team-vikram-singh.webp",
+                  "imageAlt": "Vikram Singh, Workforce Management Consultant",
+                  "detailUrl": "/team/team-vikram-singh",
+                  "socialLinks": [
+                    { "id": "vikram-facebook", "icon": "FaFacebookF", "label": "Vikram Singh on Facebook", "url": "https://facebook.com" },
+                    { "id": "vikram-instagram", "icon": "FaInstagram", "label": "Vikram Singh on Instagram", "url": "https://instagram.com" },
+                    { "id": "vikram-linkedin", "icon": "FaLinkedinIn", "label": "Vikram Singh on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "vikram-twitter", "icon": "FaTwitter", "label": "Vikram Singh on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-ananya-rao",
+                  "name": "Ananya Rao",
+                  "role": "Employee Engagement Consultant",
+                  "image": "/other/team-ananya-rao.webp",
+                  "imageAlt": "Ananya Rao, Employee Engagement Consultant",
+                  "detailUrl": "/team/team-ananya-rao",
+                  "socialLinks": [
+                    { "id": "ananya-facebook", "icon": "FaFacebookF", "label": "Ananya Rao on Facebook", "url": "https://facebook.com" },
+                    { "id": "ananya-instagram", "icon": "FaInstagram", "label": "Ananya Rao on Instagram", "url": "https://instagram.com" },
+                    { "id": "ananya-linkedin", "icon": "FaLinkedinIn", "label": "Ananya Rao on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "ananya-twitter", "icon": "FaTwitter", "label": "Ananya Rao on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-karan-bedi",
+                  "name": "Karan Bedi",
+                  "role": "Organizational Development Consultant",
+                  "image": "/other/team-karan-bedi.webp",
+                  "imageAlt": "Karan Bedi, Organizational Development Consultant",
+                  "detailUrl": "/team/team-karan-bedi",
+                  "socialLinks": [
+                    { "id": "karan-facebook", "icon": "FaFacebookF", "label": "Karan Bedi on Facebook", "url": "https://facebook.com" },
+                    { "id": "karan-instagram", "icon": "FaInstagram", "label": "Karan Bedi on Instagram", "url": "https://instagram.com" },
+                    { "id": "karan-linkedin", "icon": "FaLinkedinIn", "label": "Karan Bedi on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "karan-twitter", "icon": "FaTwitter", "label": "Karan Bedi on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-rohit-malhotra",
+                  "name": "Rohit Malhotra",
+                  "role": "HR Advisory Consultant",
+                  "image": "/other/team-rohit-malhotra.webp",
+                  "imageAlt": "Rohit Malhotra, HR Advisory Consultant",
+                  "detailUrl": "/team/team-rohit-malhotra",
+                  "socialLinks": [
+                    { "id": "rohit-facebook", "icon": "FaFacebookF", "label": "Rohit Malhotra on Facebook", "url": "https://facebook.com" },
+                    { "id": "rohit-instagram", "icon": "FaInstagram", "label": "Rohit Malhotra on Instagram", "url": "https://instagram.com" },
+                    { "id": "rohit-linkedin", "icon": "FaLinkedinIn", "label": "Rohit Malhotra on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "rohit-twitter", "icon": "FaTwitter", "label": "Rohit Malhotra on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-kavya-singh",
+                  "name": "Kavya Singh",
+                  "role": "People & Culture Consultant",
+                  "image": "/other/team-kavya-singh.webp",
+                  "imageAlt": "Kavya Singh, People and Culture Consultant",
+                  "detailUrl": "/team/team-kavya-singh",
+                  "socialLinks": [
+                    { "id": "kavya-facebook", "icon": "FaFacebookF", "label": "Kavya Singh on Facebook", "url": "https://facebook.com" },
+                    { "id": "kavya-instagram", "icon": "FaInstagram", "label": "Kavya Singh on Instagram", "url": "https://instagram.com" },
+                    { "id": "kavya-linkedin", "icon": "FaLinkedinIn", "label": "Kavya Singh on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "kavya-twitter", "icon": "FaTwitter", "label": "Kavya Singh on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-arjun-nair",
+                  "name": "Arjun Nair",
+                  "role": "Leadership Development Consultant",
+                  "image": "/other/team-arjun-nair.webp",
+                  "imageAlt": "Arjun Nair, Leadership Development Consultant",
+                  "detailUrl": "/team/team-arjun-nair",
+                  "socialLinks": [
+                    { "id": "arjun-facebook", "icon": "FaFacebookF", "label": "Arjun Nair on Facebook", "url": "https://facebook.com" },
+                    { "id": "arjun-instagram", "icon": "FaInstagram", "label": "Arjun Nair on Instagram", "url": "https://instagram.com" },
+                    { "id": "arjun-linkedin", "icon": "FaLinkedinIn", "label": "Arjun Nair on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "arjun-twitter", "icon": "FaTwitter", "label": "Arjun Nair on Twitter", "url": "https://twitter.com" }
+                  ]
+                },
+                {
+                  "id": "team-meera-iyer",
+                  "name": "Meera Iyer",
+                  "role": "Performance Management Consultant",
+                  "image": "/other/team-meera-iyer.webp",
+                  "imageAlt": "Meera Iyer, Performance Management Consultant",
+                  "detailUrl": "/team/team-meera-iyer",
+                  "socialLinks": [
+                    { "id": "meera-facebook", "icon": "FaFacebookF", "label": "Meera Iyer on Facebook", "url": "https://facebook.com" },
+                    { "id": "meera-instagram", "icon": "FaInstagram", "label": "Meera Iyer on Instagram", "url": "https://instagram.com" },
+                    { "id": "meera-linkedin", "icon": "FaLinkedinIn", "label": "Meera Iyer on LinkedIn", "url": "https://linkedin.com" },
+                    { "id": "meera-twitter", "icon": "FaTwitter", "label": "Meera Iyer on Twitter", "url": "https://twitter.com" }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "TeamDetail": {
+          "variants": {
+            "RecruitmentTeamDetail1": {
+              "subtitle": "Our Team",
+              "firstDescriptionTemplate": "{{name}} is a seasoned {{role}} with over 10 years of experience helping organizations streamline operations, develop growth strategies, and achieve sustainable success. With a practical approach, {{name}} identifies opportunities and delivers tailored solutions that drive measurable results.",
+              "secondDescriptionTemplate": "With a client-focused approach and deep industry knowledge, {{name}} works closely with businesses to understand their unique challenges and provide practical, result-oriented strategies. This expertise and commitment make {{name}} a trusted advisor for companies looking to grow and stay ahead in a competitive market.",
+              "experienceTitle": "Experience",
+              "experienceValue": "10+ Years",
+              "experienceSuffix": "In HR Consulting",
+              "expertiseTitle": "Expertise",
+              "expertise": [
+                {
+                  "id": "expertise-business-strategy",
+                  "text": "Business Strategy Development"
+                },
+                {
+                  "id": "expertise-process-optimization",
+                  "text": "Process Optimization"
+                },
+                {
+                  "id": "expertise-market-analysis",
+                  "text": "Market Analysis & Growth Planning"
+                },
+                {
+                  "id": "expertise-client-relationships",
+                  "text": "Client Relationship Management"
+                }
+              ],
+              "contactTitle": "Contact Info",
+              "phone": "+1 000000000",
+              "phoneUrl": "tel:+1000000000",
+              "email": "info@xyz.com",
+              "emailUrl": "mailto:info@xyz.com",
+              "address": "123 Main St, NY, USA",
+              "socialLinks": [
+                {
+                  "id": "team-detail-facebook",
+                  "icon": "FaFacebookF",
+                  "label": "Facebook",
+                  "url": "https://facebook.com"
+                },
+                {
+                  "id": "team-detail-instagram",
+                  "icon": "FaInstagram",
+                  "label": "Instagram",
+                  "url": "https://instagram.com"
+                },
+                {
+                  "id": "team-detail-linkedin",
+                  "icon": "FaLinkedinIn",
+                  "label": "LinkedIn",
+                  "url": "https://linkedin.com"
+                },
+                {
+                  "id": "team-detail-youtube",
+                  "icon": "FaYoutube",
+                  "label": "YouTube",
+                  "url": "https://youtube.com"
+                },
+                {
+                  "id": "team-detail-twitter",
+                  "icon": "FaTwitter",
+                  "label": "Twitter",
+                  "url": "https://twitter.com"
+                }
+              ]
+            }
+          }
+        },
+        "Cta": {
+          "variants": {
+            "RecruitmentCta1": {
+              "icon": "FaUsers",
+              "titleStart": "Looking for the",
+              "highlightedTitle": "Right Talent?",
+              "description": "Let us help you build a stronger, smarter and more successful team.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/get-a-quote",
+              "backgroundImage": "/other/cta-right-talent-hd.webp",
+              "backgroundImageAlt": "HR consultants discussing a successful talent strategy in a modern office"
+            }
+          }
+        },
+        "Impact": {
+          "variants": {
+            "RecruitmentImpact1": {
+              "subtitle": "OUR IMPACT",
+              "title1": "Numbers That Reflect",
+              "title2": "Our Strength",
+              "description": "Trusted by businesses worldwide, our HR consultancy solutions continue to deliver measurable results and stronger, safer digital environments.",
+              "backgroundImage": "/other/impact-bg.webp",
+              "backgroundImageAlt": "HR consultancy analyst monitoring a global threat intelligence command center",
+              "stats": [
+                {
+                  "id": "stat-1",
+                  "icon": "FaUsers",
+                  "value": "1,200+",
+                  "label": "Candidates Placed"
+                },
+                {
+                  "id": "stat-2",
+                  "icon": "FaHandshake",
+                  "value": "500+",
+                  "label": "Happy Clients"
+                },
+                {
+                  "id": "stat-3",
+                  "icon": "FaBriefcase",
+                  "value": "10+",
+                  "label": "Years of Experience"
+                },
+                {
+                  "id": "stat-4",
+                  "icon": "FaChartLine",
+                  "value": "95%",
+                  "label": "Success Rate"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "RecruitmentTestimonials1": {
+              "subtitle": "Testimonials",
+              "title1": "Don’t Listen To Us, Listen To",
+              "title2": "",
+              "description": "Here’s what our clients have to say about their experience working with us and the value we’ve brought to their business.",
+              "videoImage": "/other/about-main.webp",
+              "videoImageAlt": "HR consultancy operations center protecting a global business network",
+              "previousLabel": "Previous testimonials",
+              "nextLabel": "Next testimonials",
+              "slideLabel": "Show testimonial",
+              "autoplayDelay": 4500,
+              "testimonials": [
+                {
+                  "id": "testimonial-rahul-mehta",
+                  "name": "Rahul Mehta",
+                  "location": "CEO, Mehta Solutions",
+                  "quote": "Working with your consulting team has been a game changer for our business. Their strategic insights and guidance helped us streamline our operations and achieve significant growth within a year.",
+                  "rating": 5,
+                  "avatar": "/other/team-rahul-mehta.webp"
+                },
+                {
+                  "id": "testimonial-priya-sharma",
+                  "name": "Priya Sharma",
+                  "location": "Founder, Sharma Enterprises",
+                  "quote": "The team provided valuable advice and practical solutions that perfectly aligned with our goals. Their professionalism, industry knowledge, and ongoing support have been outstanding.",
+                  "rating": 5,
+                  "avatar": "/other/team-priya-sharma.webp"
+                },
+                {
+                  "id": "testimonial-sneha-verma",
+                  "name": "Sneha Verma",
+                  "location": "Director, Verma Learning Group",
+                  "quote": "Their people-first approach helped us strengthen leadership, improve employee development, and build a more confident team. The results have been both practical and measurable.",
+                  "rating": 5,
+                  "avatar": "/other/team-sneha-verma.webp"
+                },
+                {
+                  "id": "testimonial-amit-kapoor",
+                  "name": "Amit Kapoor",
+                  "location": "Managing Partner, Kapoor Advisory",
+                  "quote": "The consultants understood our business challenges quickly and delivered a clear workforce strategy. Their guidance improved our hiring decisions and supported sustainable growth.",
+                  "rating": 5,
+                  "avatar": "/other/team-amit-kapoor.webp"
+                }
+              ],
+              "highlightedTitle": "Our Great Clients!"
+            }
+          }
+        },
+        "Blogs": {
+          "variants": {
+            "RecruitmentBlogs1": {
+              "subtitle": "Our Blog",
+              "title1": "Latest News And",
+              "highlightedTitle": "Blogs",
+              "description": "Stay updated with the latest insights, tips and trends from our expert team to help you grow and succeed.",
+              "blogs": [
+                {
+                  "id": "blog-strategic-talent-planning",
+                  "image": "/other/blog-hiring-strategy.webp",
+                  "imageAlt": "Business professional preparing hiring notes beside workforce charts",
+                  "date": "15 Mar, 2026",
+                  "category": "Talent Strategy",
+                  "title": "Build a Stronger Workforce with Strategic Talent Planning",
+                  "description": "Explore practical ways to identify hiring needs, attract qualified candidates and create a dependable talent pipeline for sustainable growth.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-customized-hr-solutions",
+                  "image": "/other/blog-customized-solutions.webp",
+                  "imageAlt": "HR consultant and business leader discussing a customized talent strategy",
+                  "date": "12 Mar, 2026",
+                  "category": "HR Solutions",
+                  "title": "Customized HR Solutions Built Around Your Business",
+                  "description": "Learn how tailored recruitment, workforce planning and people strategies can address your unique goals and operational challenges.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-workforce-insights",
+                  "image": "/other/blog-workforce-insights.webp",
+                  "imageAlt": "Professional reviewing workforce analytics and performance charts",
+                  "date": "08 Mar, 2026",
+                  "category": "Workforce Insights",
+                  "title": "Turn Workforce Insights into Better Business Decisions",
+                  "description": "Discover how clear people data and ongoing HR guidance can improve performance, retention and long-term organizational success.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-hr-trends",
+                  "image": "/other/blog-customized-solutions.webp",
+                  "imageAlt": "HR professionals discussing emerging workplace trends",
+                  "date": "05 Mar, 2026",
+                  "category": "HR Trends",
+                  "title": "Top HR Trends Every Growing Business Should Watch",
+                  "description": "Understand the workplace trends shaping recruitment, employee experience and business performance in the year ahead.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-positive-workplace-culture",
+                  "image": "/other/blog-hiring-strategy.webp",
+                  "imageAlt": "Colleagues collaborating on a positive workplace culture plan",
+                  "date": "02 Mar, 2026",
+                  "category": "Workplace Culture",
+                  "title": "Building a Positive Workplace Culture That Lasts",
+                  "description": "Create an environment where employees feel supported, connected and motivated to contribute their best work.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-effective-talent-acquisition",
+                  "image": "/other/blog-workforce-insights.webp",
+                  "imageAlt": "Talent acquisition planning supported by workforce analytics",
+                  "date": "27 Feb, 2026",
+                  "category": "Talent Acquisition",
+                  "title": "Effective Talent Acquisition Strategies for Modern Teams",
+                  "description": "Improve recruitment outcomes with clear hiring priorities, stronger candidate experiences and reliable selection processes.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-employee-training",
+                  "image": "/other/blog-customized-solutions.webp",
+                  "imageAlt": "Consultants planning employee training and development",
+                  "date": "24 Feb, 2026",
+                  "category": "Learning & Development",
+                  "title": "The Importance of Employee Training and Development",
+                  "description": "Learn how focused development programs strengthen skills, improve confidence and prepare employees for future responsibilities.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-hr-compliance",
+                  "image": "/other/blog-workforce-insights.webp",
+                  "imageAlt": "HR compliance documents and workplace policy review",
+                  "date": "21 Feb, 2026",
+                  "category": "HR Compliance",
+                  "title": "Navigating HR Compliance in a Changing Workplace",
+                  "description": "Stay prepared with practical guidance for maintaining clear policies, dependable records and compliant HR processes.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-workforce-management-growth",
+                  "image": "/other/blog-hiring-strategy.webp",
+                  "imageAlt": "Business leaders reviewing a workforce management plan",
+                  "date": "18 Feb, 2026",
+                  "category": "Workforce Management",
+                  "title": "How Workforce Management Drives Business Growth",
+                  "description": "Align staffing, performance and employee development with operational priorities to support sustainable growth.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-leadership-development",
+                  "image": "/other/blog-customized-solutions.webp",
+                  "imageAlt": "Consultants discussing leadership development priorities",
+                  "date": "15 Feb, 2026",
+                  "category": "Leadership",
+                  "title": "Developing Confident Leaders Across Your Organization",
+                  "description": "Give current and emerging leaders the practical tools they need to communicate, decide and guide teams effectively.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-employee-retention",
+                  "image": "/other/blog-hiring-strategy.webp",
+                  "imageAlt": "HR leader preparing an employee retention strategy",
+                  "date": "12 Feb, 2026",
+                  "category": "Employee Retention",
+                  "title": "Practical Ways to Improve Employee Retention",
+                  "description": "Build stronger employee relationships through meaningful development, regular feedback and a consistent workplace experience.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-performance-management",
+                  "image": "/other/blog-workforce-insights.webp",
+                  "imageAlt": "Performance data being reviewed for employee development",
+                  "date": "09 Feb, 2026",
+                  "category": "Performance",
+                  "title": "Making Performance Management More Meaningful",
+                  "description": "Move beyond annual reviews with clear goals, useful conversations and development plans that support measurable progress.",
+                  "url": "/blog/blog-details"
+                }
+              ],
+              "readMoreText": "Read More",
+              "button": {
+                "text": "View All Blogs",
+                "url": "/blog"
+              },
+              "homepageLimit": 3,
+              "pagination": {
+                "previousLabel": "Previous blog page",
+                "nextLabel": "Next blog page",
+                "pageLabel": "Blog pagination"
+              }
+            }
+          }
+        },
+        "BlogDetail": {
+          "variants": {
+            "RecruitmentBlogDetail1": {
+              "authorLabel": "Admin",
+              "titleStart": "How Consultation in Business is Affecting",
+              "highlightedTitle": "New Ventures",
+              "paragraphs": [
+                "Our track record speaks for itself. We have helped numerous organizations achieve tangible results, including improved employee engagement, increased productivity, and enhanced organizational performance. Our comprehensive approach ensures that your HR strategy aligns with your overall business goals.",
+                "We take a holistic view of your HR function and consider the interconnectedness of various people operations. Our integrated approach helps organizations attract, develop and retain top talent in a competitive market.",
+                "Technology businesses face unique HR challenges as they scale. Our expertise in talent acquisition, retention and workforce planning helps growing teams build stronger foundations and foster innovation.",
+                "We support organizations with talent management, succession planning and compliance guidance. Our consultants bring practical experience that helps leadership teams improve efficiency and prepare their workforce for future growth."
+              ],
+              "quote": {
+                "text": "Client collaboration is central to our work. We listen carefully, involve your team in the process and create practical solutions that remain sustainable while maintaining strict confidentiality.",
+                "author": "Mark Johnson"
+              },
+              "galleryImages": [
+                {
+                  "id": "blog-detail-gallery-main",
+                  "image": "/other/blog-customized-solutions.webp",
+                  "imageAlt": "HR consultant working on a business growth strategy"
+                },
+                {
+                  "id": "blog-detail-gallery-team",
+                  "image": "/other/blog-hiring-strategy.webp",
+                  "imageAlt": "HR team collaborating on a workforce plan"
+                },
+                {
+                  "id": "blog-detail-gallery-analysis",
+                  "image": "/other/blog-workforce-insights.webp",
+                  "imageAlt": "Consultant reviewing workforce analysis charts"
+                }
+              ],
+              "recentPostsTitle": "Recent Posts"
+            }
+          }
+        },
+        "ContactPage": {
+          "variants": {
+            "RecruitmentContactPage1": {
+              "contactItems": [
+                {
+                  "id": "contact-office",
+                  "icon": "FaMapMarkerAlt",
+                  "title": "Our Office",
+                  "value": "123 Main St, NY, USA"
+                },
+                {
+                  "id": "contact-phone",
+                  "icon": "FaPhoneAlt",
+                  "title": "Call Us",
+                  "value": "+1 000000000",
+                  "url": "tel:+1000000000"
+                },
+                {
+                  "id": "contact-email",
+                  "icon": "FaEnvelope",
+                  "title": "Email Us",
+                  "value": "info@xyz.com",
+                  "url": "mailto:info@xyz.com"
+                }
+              ],
+              "image": "/other/team-priya-sharma.webp",
+              "imageAlt": "HR consultant ready to assist with recruitment enquiries",
+              "form": {
+                "subtitle": "Get In Touch",
+                "titleStart": "Leave A",
+                "highlightedTitle": "Message",
+                "description": "We're here to help. Get in touch with our team for enquiries, support or collaboration opportunities.",
+                "firstNameLabel": "First Name",
+                "firstNamePlaceholder": "First Name*",
+                "lastNameLabel": "Last Name",
+                "lastNamePlaceholder": "Last Name*",
+                "emailLabel": "Email Address",
+                "emailPlaceholder": "Email Address*",
+                "phoneLabel": "Phone Number",
+                "phonePlaceholder": "Phone Number*",
+                "countryLabel": "Country",
+                "countryPlaceholder": "Select Country",
+                "countries": [
+                  {
+                    "id": "country-united-states",
+                    "label": "United States",
+                    "value": "united-states"
+                  },
+                  {
+                    "id": "country-india",
+                    "label": "India",
+                    "value": "india"
+                  },
+                  {
+                    "id": "country-united-kingdom",
+                    "label": "United Kingdom",
+                    "value": "united-kingdom"
+                  },
+                  {
+                    "id": "country-canada",
+                    "label": "Canada",
+                    "value": "canada"
+                  }
+                ],
+                "messageLabel": "Your Message",
+                "messagePlaceholder": "Your Message*",
+                "submitText": "Send Now",
+                "successMessage": "Thank you. Your message has been submitted successfully."
+              },
+              "mapTitle": "Google Map showing our New York office",
+              "mapUrl": "https://www.google.com/maps?q=123+Main+St%2C+New+York%2C+NY%2C+USA&z=15&output=embed"
+            }
+          }
+        },
+        "QuotePage": {
+          "variants": {
+            "RecruitmentQuotePage1": {
+              "image": "/other/team-neha-gupta.webp",
+              "imageAlt": "HR consultant ready to discuss customized recruitment requirements",
+              "overlaySubtitle": "GET A QUOTE",
+              "overlayTitleStart": "Let's Discuss",
+              "overlayHighlightedTitle": "Your Requirements",
+              "overlayDescription": "Share your details with us and we'll get back to you with a customized quote based on your needs.",
+              "features": [
+                {
+                  "id": "quote-quick-response",
+                  "icon": "FaHeadset",
+                  "title": "Quick Response",
+                  "description": "We'll get back to you as soon as possible."
+                },
+                {
+                  "id": "quote-customized",
+                  "icon": "FaClipboardCheck",
+                  "title": "Customized Quote",
+                  "description": "Tailored solutions to match your needs."
+                },
+                {
+                  "id": "quote-confidential",
+                  "icon": "FaShieldAlt",
+                  "title": "100% Confidential",
+                  "description": "Your information is completely secure."
+                }
+              ],
+              "form": {
+                "subtitle": "GET A QUOTE",
+                "titleStart": "Request a",
+                "highlightedTitle": "Free Quote",
+                "description": "Fill out the form below and our team will get in touch with you shortly.",
+                "firstNameLabel": "First Name",
+                "firstNamePlaceholder": "First Name*",
+                "lastNameLabel": "Last Name",
+                "lastNamePlaceholder": "Last Name*",
+                "emailLabel": "Email Address",
+                "emailPlaceholder": "Email Address*",
+                "phoneLabel": "Phone Number",
+                "phonePlaceholder": "Phone Number*",
+                "serviceLabel": "Service",
+                "servicePlaceholder": "Select Service*",
+                "requirementsLabel": "Your Requirements",
+                "requirementsPlaceholder": "Your Requirements*",
+                "submitText": "Get a Quote",
+                "successMessage": "Thank you. Your quote request has been submitted successfully."
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "id": "home-hero",
+          "key": "Hero",
+          "component": "Hero"
+        },
+        {
+          "id": "home-about-us",
+          "key": "AboutUs",
+          "component": "AboutUs"
+        },
+        {
+          "id": "home-services",
+          "key": "Services",
+          "component": "Services"
+        },
+        {
+          "id": "home-why-choose-us",
+          "key": "WhyChooseUs",
+          "component": "WhyChooseUs"
+        },
+        {
+          "id": "home-impact",
+          "key": "Impact",
+          "component": "Impact"
+        },
+        {
+          "id": "home-jobs",
+          "key": "Jobs",
+          "component": "Jobs"
+        },
+        {
+          "id": "home-team",
+          "key": "Team",
+          "component": "Team"
+        },
+        {
+          "id": "home-cta",
+          "key": "Cta",
+          "component": "Cta"
+        },
+        {
+          "id": "home-testimonials",
+          "key": "Testimonials",
+          "component": "Testimonials"
+        },
+        {
+          "id": "home-blogs",
+          "key": "Blogs",
+          "component": "Blogs"
+        }
+      ]
+    },
+    "about": {
+      "components": [
+        {
+          "id": "about-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "about-content",
+          "key": "AboutUs",
+          "component": "AboutUs"
+        },
+        {
+          "id": "about-why-choose-us",
+          "key": "WhyChooseUs",
+          "component": "WhyChooseUs"
+        },
+        {
+          "id": "about-cta",
+          "key": "Cta",
+          "component": "Cta"
+        },
+        {
+          "id": "about-team",
+          "key": "Team",
+          "component": "Team"
+        }
+      ]
+    },
+    "services": {
+      "components": [
+        {
+          "id": "services-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "services-grid",
+          "key": "Services",
+          "component": "Services"
+        }
+      ]
+    },
+    "serviceDetails": {
+      "components": [
+        {
+          "id": "service-details-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "service-details-content",
+          "key": "ServiceDetail",
+          "component": "ServiceDetail"
+        }
+      ]
+    },
+    "jobs": {
+      "components": [
+        {
+          "id": "jobs-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "jobs-content",
+          "key": "JobPage",
+          "component": "JobPage"
+        }
+      ]
+    },
+    "team": {
+      "components": [
+        {
+          "id": "team-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "team-grid",
+          "key": "Team",
+          "component": "Team"
+        }
+      ]
+    },
+    "teamDetail": {
+      "components": [
+        {
+          "id": "team-detail-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "team-detail-content",
+          "key": "TeamDetail",
+          "component": "TeamDetail"
+        }
+      ]
+    },
+    "blog": {
+      "components": [
+        {
+          "id": "blog-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "blog-listing",
+          "key": "Blogs",
+          "component": "Blogs"
+        }
+      ]
+    },
+    "blogDetail": {
+      "components": [
+        {
+          "id": "blog-detail-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "blog-detail-content",
+          "key": "BlogDetail",
+          "component": "BlogDetail"
+        }
+      ]
+    },
+    "contact": {
+      "components": [
+        {
+          "id": "contact-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "contact-content",
+          "key": "ContactPage",
+          "component": "ContactPage"
+        }
+      ]
+    },
+    "getAQuote": {
+      "components": [
+        {
+          "id": "quote-breadcrumb",
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "id": "quote-content",
+          "key": "QuotePage",
+          "component": "QuotePage"
+        }
+      ]
+    }
+  }
+}

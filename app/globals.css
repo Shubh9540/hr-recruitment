@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts */
+  --font-primary: var(--font-poppins), sans-serif;
+  --font-heading: var(--font-poppins), sans-serif;
+
+  /* Global Colors - TalentFlow HR Consultancy Reference Palette */
+  --color-bg-main: #ffffff;
+  --color-bg-card: #ffffff;
+  --color-bg-light: #faf8ff;
+  --color-bg-alt: #f5f2fd;
+  --color-bg-subtle: #f8f6fc;
+  --color-bg-section: #fbf9ff;
+  --color-bg-card-alt: #f3effe;
+  --color-bg-tint-1: #f3effd;
+  --color-bg-tint-2: #ede7fc;
+  --color-bg-tint-3: #e8dffb;
+  --color-bg-tint-4: #e2d7fa;
+  --color-bg-tint-5: #dcd0f9;
+  --color-bg-tint-6: #d5c7f8;
+  --color-bg-tint-7: #cfbef7;
+  --color-bg-tint-8: #c8b5f6;
+  --color-bg-tint-9: #c1acf5;
+
+  /* Primary Violet / Purple */
+  --color-primary: #5225d3;
+  --color-primary-dark: #431cb5;
+  --color-primary-darker: #351398;
+  --color-primary-hover: #6336e4;
+  --color-primary-active: #3b16a2;
+  --color-primary-alt: #5f33dc;
+  --color-primary-accent: #6b3fe3;
+  --color-primary-bright: #7a50ea;
+  --color-primary-light: #ede7fc;
+
+  /* Accent Purple */
+  --color-accent: #5225d3;
+  --color-accent-light: #6b3fe3;
+  --color-accent-lighter: #8963f0;
+  --color-accent-sky: #7a50ea;
+  --color-accent-soft: #ede7fc;
+  --color-accent-cyan: #a98ef7;
+  --color-accent-glow: #5225d3;
+  --color-accent-pastel: #f3effd;
+
+  /* Headings and Dark Navy / Purple Surfaces */
+  --color-heading: #141736;
+  --color-navy-deep: #5225d3;
+  --color-navy-dark: #431cb5;
+  --color-navy-darker: #351398;
+  --color-navy-night: #270f78;
+  --color-navy-overlay: #1e0b5e;
+  --color-navy-medium: #5225d3;
+  --color-navy-rich: #431cb5;
+  --color-navy-midnight: #351398;
+  --color-navy-light: #6b3fe3;
+  --color-navy-teal: #431cb5;
+
+  /* Body and Muted Text */
+  --color-text: #5b6275;
+  --color-text-light: #7e869e;
+  --color-text-muted: #9aa1b5;
+  --color-text-slate: #6b728b;
+  --color-text-steel: #848c9f;
+  --color-text-subtle: #9ba3b8;
+  --color-text-gray: #6f768a;
+  --color-text-breadcrumb: #7e869e;
+  --color-text-dim: #9aa1b5;
+  --color-text-cool: #6b728b;
+  --color-text-deep-muted: #5b6275;
+  --color-text-light-muted: #848c9f;
+  --color-text-on-primary: #ffffff;
+
+  /* Borders and Dividers */
+  --color-border: #ede7fc;
+  --color-border-soft: #f1edfb;
+  --color-border-card: #ede8fa;
+  --color-border-light: #f5f1fe;
+  --color-border-subtle: #ede7fc;
+  --color-border-alt: #e3daf8;
+  --color-border-cool: #ede7fc;
+  --color-border-accent: #5225d3;
+  --color-border-muted: #ded4f7;
+  --color-border-faint: #f5f2fd;
+
+  /* Overlays and Shadows */
+  --color-shadow-soft: rgba(82, 37, 211, 0.08);
+  --color-shadow: rgba(82, 37, 211, 0.12);
+  --color-shadow-strong: rgba(82, 37, 211, 0.2);
+
+  /* Status Colors */
+  --color-warning: #ffb547;
+  --color-success-bg: #eafaf1;
+  --color-success-border: #2ecc71;
+  --color-success-text: #27ae60;
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+}
